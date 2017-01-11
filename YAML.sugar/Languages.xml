@@ -1,18 +1,11 @@
 <settings>
- 
-  <language id="com.github.olach.Espresso.Sugar.YAML">
-    <name>YAML</name>
-    
-    <root-zone>sourcecode.yaml</root-zone>
-    
-    <detectors>
-      <extension casesensitive="false">yml</extension>
+	<language id="com.github.olach.Espresso.Sugar.YAML">
+		<name>YAML</name>
+		<root-zone>sourcecode.yaml</root-zone>
+		
+		<detectors>
+			<extension casesensitive="false">yml</extension>
 			<extension casesensitive="false">yaml</extension>
-    </detectors>
-    
-    
-    
-  </language>
-  
-  
+		</detectors>
+	</language>
 </settings>
