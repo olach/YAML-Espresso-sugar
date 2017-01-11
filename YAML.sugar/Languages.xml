@@ -1,7 +1,7 @@
 <settings>
 	<language id="com.github.olach.Espresso.Sugar.YAML">
 		<name>YAML</name>
-		<root-zone>sourcecode.yaml</root-zone>
+		<root-zone>language-root.yaml</root-zone>
 		
 		<detectors>
 			<extension casesensitive="false">yml</extension>
