@@ -4,8 +4,10 @@
 		<root-zone>language-root.yaml</root-zone>
 		
 		<detectors>
-			<extension casesensitive="false">yml</extension>
-			<extension casesensitive="false">yaml</extension>
+			<extension>yml</extension>
+			<extension>yaml</extension>
 		</detectors>
+		
+		<default-extension>yml</default-extension>
 	</language>
 </settings>
