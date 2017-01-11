@@ -1,6 +1,6 @@
 <settings>
  
-  <language id="name.grzegorzkazulak.YML">
+  <language id="com.github.olach.Espresso.Sugar.YAML">
     <name>YAML</name>
     
     <root-zone>sourcecode.yaml</root-zone>
@@ -14,14 +14,5 @@
     
   </language>
   
-  <meta>
-    <name>YML</name>
-    <description>A sugar that fully describes the YML markup</description>
-    <author>grzegorzkazulak</author>
-    <identifier>name.grzegorzkazulak.Sugar.YAML</identifier>
-    <version status="preview">0</version>
-    <download format="git">git://github.com/grzegorzkazulak/yaml.sugar.git</download>
-    <url>http://github.com/grzegorzkazulak/yaml.sugar</url>
-  </meta>
   
 </settings>
