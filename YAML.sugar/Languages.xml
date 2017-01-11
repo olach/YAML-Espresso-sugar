@@ -9,5 +9,6 @@
 		</detectors>
 		
 		<default-extension>yml</default-extension>
+		<default-mime-type>application/x-yaml</default-mime-type>
 	</language>
 </settings>
