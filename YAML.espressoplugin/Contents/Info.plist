@@ -2,11 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<!--Modify these for your Sugar-->
+	<!--Modify these for your plugin-->
 	<key>CFBundleName</key>
-	<string>YAML.sugar</string>
+	<string>YAML</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.github.olach.Espresso.Sugar.YAML</string>
+	<string>com.github.olach.Espresso.Plugin.YAML</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<!--No need to modify these values-->

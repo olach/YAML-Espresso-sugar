@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
-	<language id="com.github.olach.Espresso.Sugar.YAML">
+	<language id="com.github.olach.YAML">
 		<name>YAML</name>
 		<root-zone>language-root.yaml</root-zone>
 		
